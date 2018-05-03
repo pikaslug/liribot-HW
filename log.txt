@@ -1,0 +1,47 @@
+
+* * * * * * * * * * * * * * my-tweets  * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * spotify-this-song <song name here> * * * * * * * * * * * * * *
+
+Artist(s): Tim Johnston
+Song's Name: Insert Song Name Here
+Preview Link: https://p.scdn.co/mp3-preview/703e6e4f1aeb3f21185e4717fe5ee1d4404bbed3?cid=3cdb8831bcd64d3b9ac8cc3e7339ef35
+Album Name: Metal on the Inside, Vol. 2
+
+* * * * * * * * * * * * * * spotify-this-song Soldier * * * * * * * * * * * * * *
+
+Artist(s): The Cab
+Song's Name: Angel With A Shotgun
+Preview Link: null
+Album Name: Symphony Soldier
+
+* * * * * * * * * * * * * * movie-this Full Metal Jacket * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * movie-this Titanic * * * * * * * * * * * * * *
+
+The movie's title is: Titanic
+It came out in: 1997
+IMDB rated it: 7.8
+Rotten Tomatoes rated it: 88%
+It was produced in: USA
+And the language is: English, Swedish
+The actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+And here's the plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+* * * * * * * * * * * * * * do-what-it-says  * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * spotify-this-song "I Want it That Way" * * * * * * * * * * * * * *
+
+Artist(s): Backstreet Boys
+Song's Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3cdb8831bcd64d3b9ac8cc3e7339ef35
+Album Name: The Hits--Chapter One
+
+* * * * * * * * * * * * * * my-tweets  * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * my-tweets  * * * * * * * * * * * * * *
+
+
+(Thu May 03 02:49:29 +0000 2018) test 3
+(Thu May 03 02:49:24 +0000 2018) test 2
+(Thu May 03 02:49:15 +0000 2018) test 1
